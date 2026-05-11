@@ -1,3 +1,6 @@
+discord: https://discord.gg/8zqytn7R97
+
+
 <img width="150" height="650" alt="image" src="https://github.com/user-attachments/assets/138322c4-77a7-4b57-a89d-5679e1a49bc8" />    Menu
 
 example file:
